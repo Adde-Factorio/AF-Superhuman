@@ -1,0 +1,32 @@
+data:extend({
+	{
+		default_value=100,
+		localised_description="How fast the player can mine resources and entities.",
+		localised_name="Mining Speed",
+		maximum_value=100,
+		minimum_value=1,
+		name="miningSpeed",
+		setting_type="startup",
+		type="int-setting",
+	},
+	{
+		default_value=1000000,
+		localised_description="The maximum health of the player.",
+		localised_name="Player Health",
+		maximum_value=1000000,
+		minimum_value=1,
+		name="playerHealth",
+		setting_type="startup",
+		type="int-setting",
+	},
+	{
+		default_value=1000000,
+		localised_description="How far away the player can interact with the world.",
+		localised_name="Player Reach",
+		maximum_value=1000000,
+		minimum_value=1,
+		name="playerReach",
+		setting_type="startup",
+		type="int-setting",
+	},
+})

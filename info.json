@@ -1,0 +1,11 @@
+{
+	"name":"Superhuman",
+	"version":"1.0.1",
+	"factorio_version":"0.18",
+	"title":"¬ Superhuman",
+	"author":"Darcy Manoel",
+	"contact":"darcman99@gmail.com",
+	"homepage":"https://github.com/Darcman99/Factorio-Mods",
+	"description":"Turns your avatar into an omnipotent nigh indestructible behemoth.\n    ¬ Sets health to a ridiculous amount.\n    ¬ Increases mining speed ludicrously.\n    ¬ Allows incredible player reach across the map.\n> All of these are able to be changed in mod settings.",
+	"dependencies":["base>=0.18.10"]
+}
